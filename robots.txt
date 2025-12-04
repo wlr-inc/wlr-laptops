@@ -1,0 +1,6 @@
+# robots.txt for the site
+User-agent: *
+Allow: /
+
+# Sitemap location for wlrlaptops.com
+Sitemap: https://wlrlaptops.com/sitemap.xml
